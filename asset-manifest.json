@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-CEP/static/css/main.f5269836.css",
+    "main.js": "/API-CEP/static/js/main.74d12522.js",
+    "index.html": "/API-CEP/index.html",
+    "main.f5269836.css.map": "/API-CEP/static/css/main.f5269836.css.map",
+    "main.74d12522.js.map": "/API-CEP/static/js/main.74d12522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5269836.css",
+    "static/js/main.74d12522.js"
+  ]
+}
